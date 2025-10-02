@@ -1,5 +1,8 @@
 name: Generate graph
 
+permissions:
+  contents: write
+
 on:
   push:
     tags:

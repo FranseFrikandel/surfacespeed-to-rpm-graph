@@ -1,6 +1,6 @@
 # Surface speed to RPM graph
 
-A simple graph to find the correct RPM based on workpiece (or tool) diameter and desired surface speed
+A simple graph to find the correct RPM based on workpiece (or tool) diameter and desired surface speed. The reposity contains the python file used, and the final PDF can be found in the releases.
 
 ## Using the graph
 
